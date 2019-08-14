@@ -1,7 +1,17 @@
-# GetHousing_SearchData
+# GetHousing Search Data
 GetHousing Search is a mobile responsive web application redeployed as a part of Code for America's Community Fellowship orginally in Austin, Texas then repurposed for Miami, Florida.
 
  An instance of this application was deployed for Miami, Florida so that government agencies and non profits could access and update a single comprehensive source of affordable housing.
+
+## Documentation
+
+Documentation is contained in Markdown files within the repository
+
+| File          | Purpose |
+| ------------- | -----------|
+| [README.md](README.md) | This root document |
+| [LICENSE.md](LICENSE.md) | Our software license |
+ 
 
 ### Technologies
 Node.js = Backend
